@@ -59,7 +59,7 @@ The Top 5 schools taking overrall passing % after the analysis
 ![](top5.png)
 
 
-### Math Reading Scores
+### Math Reading Scores by Grade
 
 ![](Scores_byGrade.png)
 
